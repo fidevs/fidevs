@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fide Omar Islas Duarte @fidevs
 - 👀 I’m interested in Full Stack development, industrial programming and robotic
-- 🌱 I’m currently learning Spring and React
+- 🌱 I’m currently learning Spring, React, Angular and Ionic
 - 💞️ I’m looking to collaborate on some Innovation or Technological company
 - 📫 My email is fidev.id@outlook.com
 
